@@ -1,7 +1,7 @@
 # MyIP IPv4 & IPv6 Viewer 🌐🔍
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Extension-blue?logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/myip-ipv4-ipv6-viewer/bnjgghaofcbgkagkimfedeoldcfegpce)
-[![Microsoft Edge](https://img.shields.io/badge/Edge%20Addons-Extension-teal?logo=microsoft-edge&logoColor=white)](YOUR_EDGE_DEVELOPER_STORE_LINK_HERE)
+[![Microsoft Edge](https://img.shields.io/badge/Edge%20Addons-Extension-teal?logo=microsoft-edge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/myip-ipv4-ipv6-viewer/oedifjkomaciheimeikdianbioelbgeh)
 [![Mozilla Add-ons](https://img.shields.io/badge/Firefox-Add--on-orange?logo=firefox&logoColor=white)](https://addons.mozilla.org/en-CA/firefox/addon/myip-ipv4-ipv6-viewer/)
 
 **MyIP IPv4 & IPv6 Viewer** is an ultra-lightweight, fast, and privacy-focused browser extension that instantly displays your public network addresses. No more loading heavy external websites or dealing with intrusive ads just to find your network details—get the full picture in a single click.
